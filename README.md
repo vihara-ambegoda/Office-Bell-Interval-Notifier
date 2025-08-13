@@ -4,19 +4,34 @@ Automated Office Bell System using ESP and RTC
 
 ** This project simulates and runs an automated office bell system using an ESP microcontroller and a Real-Time Clock (RTC) module.
 
-## Components
-- ESP32/ESP8266
-- DS3231 RTC Module
-- Buzzer/Relay
-- Arduino IDE
+# Automated Office Bell System (Wokwi Simulation)
 
-## Features
-- Ring bell at scheduled times
-- Synchronize with RTC
-- Simulation and deployment ready
+This project simulates an embedded office bell system using an ESP microcontroller and an RTC module, created in the Wokwi simulation environment.
 
-## Simulation Screenshot
-*(Add image if needed)*
+## 🔧 Project Scope
 
-## Wiring Diagram
-*(Add diagram if available)*
+- **Simulation Environment**: [Wokwi](https://wokwi.com)
+- **Microcontroller**: ESP32 / ESP8266
+- **RTC Module**: DS3231
+- **Purpose**: Automate office bell ringing at scheduled times
+
+## 📌 My Contribution
+
+- Designed and tested the full simulation using Wokwi
+- Wrote the embedded C/C++ code for ESP to communicate with RTC and trigger the bell
+- Verified logic and timing using simulated buzzer
+- Provided the codebase and documentation for hardware implementation
+
+> ⚠️ **Note:** Actual hardware deployment (wiring, soldering, mounting) was completed by another team member.
+
+## 💻 Simulation
+
+- [Wokwi Project Link](#) *(Replace with your actual Wokwi URL)*
+
+## 📁 Files Included
+
+- `office_bell.ino` – Arduino sketch
+- `README.md` – This file
+- `wokwi-diagram.json` – Wokwi circuit diagram
+- Optional: wir
+
