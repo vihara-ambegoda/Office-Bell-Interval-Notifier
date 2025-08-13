@@ -22,7 +22,7 @@ This project simulates an embedded office bell system using an ESP microcontroll
 - Verified logic and timing using simulated buzzer
 - Provided the codebase and documentation for hardware implementation
 
-> ⚠️ **Note:** Actual hardware deployment (wiring, soldering, mounting) was completed by another team member.
+> **Note:** Actual hardware deployment (wiring, soldering, mounting) was completed by another team member.
 
 ## 💻 Simulation
 
@@ -33,5 +33,21 @@ This project simulates an embedded office bell system using an ESP microcontroll
 - `office_bell.ino` – Arduino sketch
 - `README.md` – This file
 - `wokwi-diagram.json` – Wokwi circuit diagram
-- Optional: wir
+- Optional: wiring diagram images or video links
+
+## 🕒 Features
+
+- Set bell ringing times via code
+- Real-time synchronization using DS3231
+- Simple digital output to trigger buzzer/relay
+
+## 📷 Screenshot
+
+*(Add a screenshot of your Wokwi simulation circuit)*
+
+## 🛠️ Future Improvements
+
+- Add web-based time scheduling (via Wi-Fi)
+- OLED display for time and status
+- Battery backup and error detection
 
