@@ -21,7 +21,7 @@ Automated Office Bell System using ESP and RTC
 
 ## 💻 Simulation
 
-- [Wokwi Project Link (https://wokwi.com/projects/392309446866052097)]
+- [[Wokwi Project Link] (https://wokwi.com/projects/392309446866052097)]
 
 ## 📁 Files Included
 
