@@ -32,5 +32,5 @@ Automated Office Bell System using ESP and RTC
 
 ## 📷 Screenshot
 
-![Wokwi Circuit Screenshot](screenshot.png)
+![Wokwi Circuit Screenshot](wokwi_bell.png)
 
