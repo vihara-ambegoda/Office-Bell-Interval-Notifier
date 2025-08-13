@@ -21,20 +21,13 @@ Automated Office Bell System using ESP and RTC
 
 ## 💻 Simulation
 
-- [[Wokwi Project Link](https://wokwi.com/projects/392309446866052097)]
-
-## 📁 Files Included
-
-- `office_bell.ino` – Arduino sketch
-- `README.md` – This file
-- `wokwi-diagram.json` – Wokwi circuit diagram
-- Optional: wiring diagram images or video links
+- [Wokwi Project Link(https://wokwi.com/projects/392309446866052097)]
 
 ## 🕒 Features
 
-- Set bell ringing times via code
-- Real-time synchronization using DS3231
-- Simple digital output to trigger buzzer/relay
+- Set the bell ringing times via the C code
+- Real-time synchronization using DS1307 RTC Module
+- Simple digital output to trigger the buzzer
 
 ## 📷 Screenshot
 
