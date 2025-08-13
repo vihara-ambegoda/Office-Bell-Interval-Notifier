@@ -23,14 +23,11 @@ Automated Office Bell System using ESP and RTC
 
 - [[Project Link](https://wokwi.com/projects/392309446866052097)]
 
+![Wokwi Circuit Screenshot](wokwi_bell.png)
+
 ## 🕒 Features
 
 - Set the bell ringing times via the C code
 - Real-time synchronization using DS1307 RTC Module
 - Simple digital output to trigger the buzzer
 - OLED display showing the time and status
-
-## 📷 Screenshot
-
-![Wokwi Circuit Screenshot](wokwi_bell.png)
-
