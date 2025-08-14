@@ -4,16 +4,22 @@ Automated Office Bell System with Interval Notifications using ESP32 and RTC
 
 ** This project simulates and runs an automated office bell system using an ESP microcontroller and a Real-Time Clock (RTC) module, created in the Wokwi simulation environment.
 
+---
+
 ## 💡 Why an Automated Office Bell
 
 - This system helps automate office break reminders and reduces manual effort
-  
+
+---
+
 ## 🔧 Project Scope
 
 - **Simulation Environment**: [Wokwi](https://wokwi.com)
 - **Microcontroller**: ESP32
 - **RTC Module**: DS1307
 - **Purpose**: Automate office bell ringing at scheduled times (at break times)
+
+---
   
 ## 📌 My Contribution
 
@@ -23,11 +29,15 @@ Automated Office Bell System with Interval Notifications using ESP32 and RTC
 - Provided the codebase and documentation for hardware implementation
 > **Note:** Actual hardware development (wiring, soldering, mounting) was completed by another team member.
 
+---
+
 ## 💻 Simulation
 
 - [[Project Link](https://wokwi.com/projects/392309446866052097)]
 
 ![Wokwi Circuit Screenshot](wokwi_bell.png)
+
+---
 
 ## 🕒 Features
 
@@ -35,3 +45,15 @@ Automated Office Bell System with Interval Notifications using ESP32 and RTC
 - Real-time synchronization using DS1307 RTC Module
 - Simple digital output to trigger the buzzer
 - OLED display showing the time and status
+
+---
+
+## 📄 License
+This project is shared for educational purposes. Please give credit if you use it.
+
+---
+
+## 📬 Contact
+If you have feedback or suggestions, feel free to [open an issue](https://github.com).
+
+---
