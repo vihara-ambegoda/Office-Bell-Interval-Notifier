@@ -1,6 +1,6 @@
 # Automated Office Bell : Interval Notifier (Wokwi Simulation)
 
-Automated Office Bell System with Interval Notifications using ESP32 and RTC.
+Automated Office Bell System with Interval Notifications using ESP32 and RTC
 
 This project simulates and runs an automated office bell system using an ESP microcontroller and a Real-Time Clock (RTC) module, created in the Wokwi simulation environment.
 
@@ -41,7 +41,7 @@ This project simulates and runs an automated office bell system using an ESP mic
 
 ## 🕒 Features
 
-- Set the bell ringing times via the C code
+- Set the bell ringing times via the code
 - Real-time synchronization using DS1307 RTC Module
 - Simple digital output to trigger the buzzer
 - OLED display showing the time and status
